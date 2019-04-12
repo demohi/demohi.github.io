@@ -1,0 +1,16 @@
+{
+  "name": "demohi.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "repository": "git@github.com:demohi/demohi.github.io.git",
+  "author": "demohi",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.47",
+    "vuepress-plugin-yuque": "^0.6.0"
+  }
+}
